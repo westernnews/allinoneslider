@@ -1,0 +1,814 @@
+/*textWhiteBgBlack*/
+	.all_in_one_bannerWithPlaylist_textWhiteBgBlack_small {
+		font-family: Arial;
+		font-size:12px;
+		line-height:12px;
+		font-weight:bold;
+		color:#FFF;
+		background:#000;
+		padding:5px 6px;
+		margin:0;
+	}
+	.all_in_one_bannerWithPlaylist_textWhiteBgBlack_small a {
+		color:#FFF;
+		text-decoration:underline;
+	}
+	.all_in_one_bannerWithPlaylist_textWhiteBgBlack_small a:hover {
+		color:#F00;
+		text-decoration:underline;
+	}
+	.all_in_one_bannerWithPlaylist_textWhiteBgBlack_medium {
+		font-family: Arial;
+		font-size:22px;
+		line-height:22px;
+		font-weight:normal;
+		color:#FFF;
+		background:#000;
+		padding:6px 7px;
+		margin:0;
+	}
+	.all_in_one_bannerWithPlaylist_textWhiteBgBlack_medium a {
+		color:#FFF;
+		text-decoration:none;
+	}
+	.all_in_one_bannerWithPlaylist_textWhiteBgBlack_medium a:hover {
+		color:#F00;
+		text-decoration:none;
+	}
+
+
+	.all_in_one_bannerWithPlaylist_textWhiteBgBlack_medium2 {
+		font-family: Arial;
+		font-size:28px;
+		line-height:28px;
+		font-weight:normal;
+		color:#FFF;
+		background:#000;
+		padding:6px 7px;
+		margin:0;
+	}
+	.all_in_one_bannerWithPlaylist_textWhiteBgBlack_medium2 a {
+		color:#FFF;
+		text-decoration:underline;
+	}
+	.all_in_one_bannerWithPlaylist_textWhiteBgBlack_medium2 a:hover {
+		color:#F00;
+		text-decoration:underline;
+	}
+
+	.all_in_one_bannerWithPlaylist_textWhiteBgBlack_large {
+		font-family: Arial;
+		font-size:36px;
+		line-height:36px;
+		font-weight:normal;
+		color:#FFF;
+		background:#000;
+		padding:7px 10px;
+		margin:0;
+	}
+	.all_in_one_bannerWithPlaylist_textWhiteBgBlack_large a {
+		color:#FFF;
+		text-decoration:underline;
+	}
+	.all_in_one_bannerWithPlaylist_textWhiteBgBlack_large a:hover {
+		color:#F00;
+		text-decoration:underline;
+	}
+
+
+/*textWhiteBgRed*/
+	.all_in_one_bannerWithPlaylist_textWhiteBgRed_small {
+		font-family: Arial;
+		font-size:12px;
+		line-height:12px;
+		font-weight:bold;
+		color:#FFF;
+		background:#b60a08;
+		padding:5px 6px;
+		margin:0;
+	}
+	.all_in_one_bannerWithPlaylist_textWhiteBgRed_small a {
+		color:#FFF;
+		text-decoration:underline;
+	}
+	.all_in_one_bannerWithPlaylist_textWhiteBgRed_small a:hover {
+		color:#F00;
+		text-decoration:underline;
+	}
+	.all_in_one_bannerWithPlaylist_textWhiteBgRed_medium {
+		font-family: Arial;
+		font-size:22px;
+		line-height:22px;
+		font-weight:normal;
+		color:#FFF;
+		background:#b60a08;
+		padding:6px 7px;
+		margin:0;
+	}
+	.all_in_one_bannerWithPlaylist_textWhiteBgRed_medium a {
+		color:#FFF;
+		text-decoration:underline;
+	}
+	.all_in_one_bannerWithPlaylist_textWhiteBgRed_medium a:hover {
+		color:#F00;
+		text-decoration:underline;
+	}
+
+
+	.all_in_one_bannerWithPlaylist_textWhiteBgRed_medium2 {
+		font-family: Arial;
+		font-size:28px;
+		line-height:28px;
+		font-weight:normal;
+		color:#FFF;
+		background:#b60a08;
+		padding:6px 7px;
+		margin:0;
+	}
+	.all_in_one_bannerWithPlaylist_textWhiteBgRed_medium2 a {
+		color:#FFF;
+		text-decoration:underline;
+	}
+	.all_in_one_bannerWithPlaylist_textWhiteBgRed_medium2 a:hover {
+		color:#F00;
+		text-decoration:underline;
+	}
+
+	.all_in_one_bannerWithPlaylist_textWhiteBgRed_large {
+		font-family: Arial;
+		font-size:36px;
+		line-height:36px;
+		font-weight:normal;
+		color:#FFF;
+		background:#b60a08;
+		padding:7px 10px;
+		margin:0;
+	}
+	.all_in_one_bannerWithPlaylist_textWhiteBgRed_large a {
+		color:#FFF;
+		text-decoration:underline;
+	}
+	.all_in_one_bannerWithPlaylist_textWhiteBgRed_large a:hover {
+		color:#F00;
+		text-decoration:underline;
+	}
+
+
+
+
+/*textWhiteBgMauve*/
+	.all_in_one_bannerWithPlaylist_textWhiteBgMauve_small {
+		font-family: Arial;
+		font-size:12px;
+		line-height:12px;
+		font-weight:bold;
+		color:#FFFFFF;
+		background:#522e5b;
+		padding:5px 6px;
+		margin:0;
+	}
+	.all_in_one_bannerWithPlaylist_textWhiteBgMauve_small a {
+		color:#FFFFFF;
+		text-decoration:underline;
+	}
+	.all_in_one_bannerWithPlaylist_textWhiteBgMauve_small a:hover {
+		color:#F00;
+		text-decoration:underline;
+	}
+	.all_in_one_bannerWithPlaylist_textWhiteBgMauve_medium {
+		font-family: Arial;
+		font-size:22px;
+		line-height:22px;
+		font-weight:normal;
+		color:#FFFFFF;
+		background:#522e5b;
+		padding:6px 7px;
+		margin:0;
+	}
+	.all_in_one_bannerWithPlaylist_textWhiteBgMauve_medium a {
+		color:#FFFFFF;
+		text-decoration:underline;
+	}
+	.all_in_one_bannerWithPlaylist_textWhiteBgMauve_medium a:hover {
+		color:#F00;
+		text-decoration:underline;
+	}
+
+
+	.all_in_one_bannerWithPlaylist_textWhiteBgMauve_medium2 {
+		font-family: Arial;
+		font-size:28px;
+		line-height:28px;
+		font-weight:normal;
+		color:#FFFFFF;
+		background:#522e5b;
+		padding:6px 7px;
+		margin:0;
+	}
+	.all_in_one_bannerWithPlaylist_textWhiteBgMauve_medium2 a {
+		color:#FFFFFF;
+		text-decoration:underline;
+	}
+	.all_in_one_bannerWithPlaylist_textWhiteBgMauve_medium2 a:hover {
+		color:#F00;
+		text-decoration:underline;
+	}
+
+
+
+	.all_in_one_bannerWithPlaylist_textWhiteBgMauve_large {
+		font-family: Arial;
+		font-size:36px;
+		line-height:36px;
+		font-weight:normal;
+		color:#FFFFFF;
+		background:#522e5b;
+		padding:7px 10px;
+		margin:0;
+	}
+	.all_in_one_bannerWithPlaylist_textWhiteBgMauve_large a {
+		color:#FFFFFF;
+		text-decoration:underline;
+	}
+	.all_in_one_bannerWithPlaylist_textWhiteBgMauve_large a:hover {
+		color:#F00;
+		text-decoration:underline;
+	}
+
+
+
+/*textWhiteBgOrange*/
+	.all_in_one_bannerWithPlaylist_textWhiteBgOrange_small {
+		font-family: Arial;
+		font-size:12px;
+		line-height:12px;
+		font-weight:bold;
+		color:#FFF;
+		background:#e76821;
+		padding:5px 6px;
+		margin:0;
+	}
+	.all_in_one_bannerWithPlaylist_textWhiteBgOrange_small a {
+		color:#FFF;
+		text-decoration:underline;
+	}
+	.all_in_one_bannerWithPlaylist_textWhiteBgOrange_small a:hover {
+		color:#F00;
+		text-decoration:underline;
+	}
+	.all_in_one_bannerWithPlaylist_textWhiteBgOrange_medium {
+		font-family: Arial;
+		font-size:22px;
+		line-height:22px;
+		font-weight:normal;
+		color:#FFF;
+		background:#e76821;
+		padding:6px 7px;
+		margin:0;
+	}
+	.all_in_one_bannerWithPlaylist_textWhiteBgOrange_medium a {
+		color:#FFF;
+		text-decoration:underline;
+	}
+	.all_in_one_bannerWithPlaylist_textWhiteBgOrange_medium a:hover {
+		color:#F00;
+		text-decoration:underline;
+	}
+
+
+	.all_in_one_bannerWithPlaylist_textWhiteBgOrange_medium2 {
+		font-family: Arial;
+		font-size:28px;
+		line-height:28px;
+		font-weight:normal;
+		color:#FFF;
+		background:#e76821;
+		padding:6px 7px;
+		margin:0;
+	}
+	.all_in_one_bannerWithPlaylist_textWhiteBgOrange_medium2 a {
+		color:#FFF;
+		text-decoration:underline;
+	}
+	.all_in_one_bannerWithPlaylist_textWhiteBgOrange_medium2 a:hover {
+		color:#F00;
+		text-decoration:underline;
+	}
+
+
+
+	.all_in_one_bannerWithPlaylist_textWhiteBgOrange_large {
+		font-family: Arial;
+		font-size:36px;
+		line-height:36px;
+		font-weight:normal;
+		color:#FFF;
+		background:#e76821;
+		padding:7px 10px;
+		margin:0;
+	}
+	.all_in_one_bannerWithPlaylist_textWhiteBgOrange_large a {
+		color:#FFF;
+		text-decoration:underline;
+	}
+	.all_in_one_bannerWithPlaylist_textWhiteBgOrange_large a:hover {
+		color:#F00;
+		text-decoration:underline;
+	}
+
+
+
+
+	/*textBlackBgWhite*/
+	.all_in_one_bannerWithPlaylist_textBlackBgWhite_small {
+		font-family: Arial;
+		font-size:12px;
+		line-height:12px;
+		font-weight:bold;
+		color:#000;
+		background:#FFF;
+		padding:5px 6px;
+		margin:0;
+	}
+	.all_in_one_bannerWithPlaylist_textBlackBgWhite_small a {
+		color:#000;
+		text-decoration:underline;
+	}
+	.all_in_one_bannerWithPlaylist_textBlackBgWhite_small a:hover {
+		color:#F00;
+		text-decoration:underline;
+	}
+	.all_in_one_bannerWithPlaylist_textBlackBgWhite_medium {
+		font-family: Arial;
+		font-size:22px;
+		line-height:22px;
+		font-weight:normal;
+		color:#000;
+		background:#FFF;
+		padding:6px 7px;
+		margin:0;
+	}
+	.all_in_one_bannerWithPlaylist_textBlackBgWhite_medium a {
+		color:#000;
+		text-decoration:underline;
+	}
+	.all_in_one_bannerWithPlaylist_textBlackBgWhite_medium a:hover {
+		color:#F00;
+		text-decoration:underline;
+	}
+
+	.all_in_one_bannerWithPlaylist_textBlackBgWhite_medium2 {
+		font-family: Arial;
+		font-size:28px;
+		line-height:28px;
+		font-weight:normal;
+		color:#000;
+		background:#FFF;
+		padding:6px 7px;
+		margin:0;
+	}
+	.all_in_one_bannerWithPlaylist_textBlackBgWhite_medium2 a {
+		color:#000;
+		text-decoration:none;
+	}
+	.all_in_one_bannerWithPlaylist_textBlackBgWhite_medium2 a:hover {
+		color:#F00;
+		text-decoration:none;
+	}
+
+
+	.all_in_one_bannerWithPlaylist_textBlackBgWhite_large {
+		font-family: Arial;
+		font-size:36px;
+		line-height:36px;
+		font-weight:normal;
+		color:#000;
+		background:#FFF;
+		padding:7px 10px;
+		margin:0;
+	}
+	.all_in_one_bannerWithPlaylist_textBlackBgWhite_large a {
+		color:#000;
+		text-decoration:underline;
+	}
+	.all_in_one_bannerWithPlaylist_textBlackBgWhite_large a:hover {
+		color:#F00;
+		text-decoration:underline;
+	}
+
+
+
+/*textBlackBgYellow*/
+	.all_in_one_bannerWithPlaylist_textBlackBgYellow_small {
+		font-family: Arial;
+		font-size:12px;
+		line-height:12px;
+		font-weight:bold;
+		color:#000000;
+		background:#ffe400;
+		padding:5px 6px;
+		margin:0;
+	}
+	.all_in_one_bannerWithPlaylist_textBlackBgYellow_small a {
+		color:#000000;
+		text-decoration:underline;
+	}
+	.all_in_one_bannerWithPlaylist_textBlackBgYellow_small a:hover {
+		color:#F00;
+		text-decoration:underline;
+	}
+	.all_in_one_bannerWithPlaylist_textBlackBgYellow_medium {
+		font-family: Arial;
+		font-size:22px;
+		line-height:22px;
+		font-weight:normal;
+		color:#000000;
+		background:#ffe400;
+		padding:6px 7px;
+		margin:0;
+	}
+	.all_in_one_bannerWithPlaylist_textBlackBgYellow_medium a {
+		color:#000000;
+		text-decoration:underline;
+	}
+	.all_in_one_bannerWithPlaylist_textBlackBgYellow_medium a:hover {
+		color:#F00;
+		text-decoration:underline;
+	}
+
+
+	.all_in_one_bannerWithPlaylist_textBlackBgYellow_medium2 {
+		font-family: Arial;
+		font-size:28px;
+		line-height:28px;
+		font-weight:normal;
+		color:#000000;
+		background:#ffe400;
+		padding:6px 7px;
+		margin:0;
+	}
+	.all_in_one_bannerWithPlaylist_textBlackBgYellow_medium2 a {
+		color:#000000;
+		text-decoration:underline;
+	}
+	.all_in_one_bannerWithPlaylist_textBlackBgYellow_medium2 a:hover {
+		color:#F00;
+		text-decoration:underline;
+	}
+
+
+
+	.all_in_one_bannerWithPlaylist_textBlackBgYellow_large {
+		font-family: Arial;
+		font-size:36px;
+		line-height:36px;
+		font-weight:normal;
+		color:#000000;
+		background:#ffe400;
+		padding:7px 10px;
+		margin:0;
+	}
+	.all_in_one_bannerWithPlaylist_textBlackBgYellow_large a {
+		color:#000000;
+		text-decoration:underline;
+	}
+	.all_in_one_bannerWithPlaylist_textBlackBgYellow_large a:hover {
+		color:#F00;
+		text-decoration:underline;
+	}
+
+
+
+
+	/*textRedBgWhite*/
+	.all_in_one_bannerWithPlaylist_textRedBgWhite_small {
+		font-family: Arial;
+		font-size:12px;
+		line-height:12px;
+		font-weight:bold;
+		color:#F00;
+		background:#FFF;
+		padding:5px 6px;
+		margin:0;
+	}
+	.all_in_one_bannerWithPlaylist_textRedBgWhite_small a {
+		color:#F00;
+		text-decoration:underline;
+	}
+	.all_in_one_bannerWithPlaylist_textRedBgWhite_small a:hover {
+		color:#000;
+		text-decoration:underline;
+	}
+	.all_in_one_bannerWithPlaylist_textRedBgWhite_medium {
+		font-family: Arial;
+		font-size:22px;
+		line-height:22px;
+		font-weight:normal;
+		color:#F00;
+		background:#FFF;
+		padding:6px 7px;
+		margin:0;
+	}
+	.all_in_one_bannerWithPlaylist_textRedBgWhite_medium a {
+		color:#F00;
+		text-decoration:underline;
+	}
+	.all_in_one_bannerWithPlaylist_textRedBgWhite_medium a:hover {
+		color:#000;
+		text-decoration:underline;
+	}
+	.all_in_one_bannerWithPlaylist_textRedBgWhite_large {
+		font-family: Arial;
+		font-size:36px;
+		line-height:36px;
+		font-weight:normal;
+		color:#F00;
+		background:#FFF;
+		padding:7px 10px;
+		margin:0;
+	}
+	.all_in_one_bannerWithPlaylist_textRedBgWhite_large a {
+		color:#F00;
+		text-decoration:underline;
+	}
+	.all_in_one_bannerWithPlaylist_textRedBgWhite_large a:hover {
+		color:#000;
+		text-decoration:underline;
+	}
+	/*textBlueBgWhite*/
+	.all_in_one_bannerWithPlaylist_textBlueBgWhite_small {
+		font-family: Arial;
+		font-size:12px;
+		line-height:12px;
+		font-weight:bold;
+		color:#00F;
+		background:#FFF;
+		padding:5px 6px;
+		margin:0;
+	}
+	.all_in_one_bannerWithPlaylist_textBlueBgWhite_small a {
+		color:#00F;
+		text-decoration:underline;
+	}
+	.all_in_one_bannerWithPlaylist_textBlueBgWhite_small a:hover {
+		color:#F00;
+		text-decoration:underline;
+	}
+	.all_in_one_bannerWithPlaylist_textBlueBgWhite_medium {
+		font-family: Arial;
+		font-size:22px;
+		line-height:22px;
+		font-weight:normal;
+		color:#00F;
+		background:#FFF;
+		padding:6px 7px;
+		margin:0;
+	}
+	.all_in_one_bannerWithPlaylist_textBlueBgWhite_medium a {
+		color:#00F;
+		text-decoration:underline;
+	}
+	.all_in_one_bannerWithPlaylist_textBlueBgWhite_medium a:hover {
+		color:#F00;
+		text-decoration:underline;
+	}
+
+	.all_in_one_bannerWithPlaylist_textBlueBgWhite_large {
+		font-family: Arial;
+		font-size:36px;
+		line-height:36px;
+		font-weight:normal;
+		color:#00F;
+		background:#FFF;
+		padding:7px 10px;
+		margin:0;
+	}
+	.all_in_one_bannerWithPlaylist_textBlueBgWhite_large a {
+		color:#00F;
+		text-decoration:underline;
+	}
+	.all_in_one_bannerWithPlaylist_textBlueBgWhite_large a:hover {
+		color:#F00;
+		text-decoration:underline;
+	}
+	/*textWhiteBgTransparent*/
+	.all_in_one_bannerWithPlaylist_textWhiteBgTransparent_small {
+		font-family: Arial;
+		font-size:12px;
+		line-height:12px;
+		font-weight:bold;
+		color:#FFF;
+		background:none;
+		padding:0;
+		margin:0;
+	}
+	.all_in_one_bannerWithPlaylist_textWhiteBgTransparent_small a {
+		color:#FFF;
+		text-decoration:underline;
+	}
+	.all_in_one_bannerWithPlaylist_textWhiteBgTransparent_small a:hover {
+		color:#F00;
+		text-decoration:underline;
+	}
+	.all_in_one_bannerWithPlaylist_textWhiteBgTransparent_medium {
+		font-family: Arial;
+		font-size:26px;
+		line-height:26px;
+		font-weight:normal;
+		text-shadow: 0px 2px 2px rgba(0, 0, 0, 0.4);
+		color:#FFF;
+		background:none;
+		padding:0;
+		margin:0;
+	}
+	.all_in_one_bannerWithPlaylist_textWhiteBgTransparent_medium a {
+		color:#FFF;
+		text-decoration:underline;
+	}
+	.all_in_one_bannerWithPlaylist_textWhiteBgTransparent_medium a:hover {
+		color:#F00;
+		text-decoration:underline;
+	}
+	.all_in_one_bannerWithPlaylist_textWhiteBgTransparent_large {
+		font-family: Arial;
+		font-size:36px;
+		line-height:36px;
+		font-weight:normal;
+		color:#FFF;
+		background:none;
+		padding:0;
+		margin:0;
+	}
+	.all_in_one_bannerWithPlaylist_textWhiteBgTransparent_large a {
+		color:#FFF;
+		text-decoration:underline;
+	}
+	.all_in_one_bannerWithPlaylist_textWhiteBgTransparent_large a:hover {
+		color:#F00;
+		text-decoration:underline;
+	}
+	/*textBlackBgTransparent*/
+	.all_in_one_bannerWithPlaylist_textBlackBgTransparent_small {
+		font-family: Arial;
+		font-size:12px;
+		line-height:12px;
+		font-weight:bold;
+		color:#000;
+		background:none;
+		padding:0;
+		margin:0;
+	}
+	.all_in_one_bannerWithPlaylist_textBlackBgTransparent_small a {
+		color:#000;
+		text-decoration:underline;
+	}
+	.all_in_one_bannerWithPlaylist_textBlackBgTransparent_small a:hover {
+		color:#F00;
+		text-decoration:underline;
+	}
+	.all_in_one_bannerWithPlaylist_textBlackBgTransparent_medium {
+		font-family: Arial;
+		font-size:22px;
+		line-height:22px;
+		font-weight:normal;
+		color:#000;
+		background:none;
+		padding:0;
+		margin:0;
+	}
+	.all_in_one_bannerWithPlaylist_textBlackBgTransparent_medium a {
+		color:#000;
+		text-decoration:underline;
+	}
+	.all_in_one_bannerWithPlaylist_textBlackBgTransparent_medium a:hover {
+		color:#F00;
+		text-decoration:underline;
+	}
+	.all_in_one_bannerWithPlaylist_textBlackBgTransparent_large {
+		font-family: Arial;
+		font-size:36px;
+		line-height:36px;
+		font-weight:normal;
+		color:#000;
+		background:none;
+		padding:0;
+		margin:0;
+	}
+	.all_in_one_bannerWithPlaylist_textBlackBgTransparent_large a {
+		color:#000;
+		text-decoration:underline;
+	}
+	.all_in_one_bannerWithPlaylist_textBlackBgTransparent_large a:hover {
+		color:#F00;
+		text-decoration:underline;
+	}
+	/*textRedBgTransparent*/
+	.all_in_one_bannerWithPlaylist_textRedBgTransparent_small {
+		font-family: Arial;
+		font-size:12px;
+		line-height:12px;
+		font-weight:bold;
+		color:#F00;
+		background:none;
+		padding:0;
+		margin:0;
+	}
+	.all_in_one_bannerWithPlaylist_textRedBgTransparent_small a {
+		color:#F00;
+		text-decoration:underline;
+	}
+	.all_in_one_bannerWithPlaylist_textRedBgTransparent_small a:hover {
+		color:#000;
+		text-decoration:underline;
+	}
+	.all_in_one_bannerWithPlaylist_textRedBgTransparent_medium {
+		font-family: Arial;
+		font-size:22px;
+		line-height:22px;
+		font-weight:normal;
+		color:#F00;
+		background:none;
+		padding:0;
+		margin:0;
+	}
+	.all_in_one_bannerWithPlaylist_textRedBgTransparent_medium a {
+		color:#F00;
+		text-decoration:underline;
+	}
+	.all_in_one_bannerWithPlaylist_textRedBgTransparent_medium a:hover {
+		color:#000;
+		text-decoration:underline;
+	}
+	.all_in_one_bannerWithPlaylist_textRedBgTransparent_large {
+		font-family: Arial;
+		font-size:36px;
+		line-height:36px;
+		font-weight:normal;
+		color:#F00;
+		background:none;
+		padding:0;
+		margin:0;
+	}
+	.all_in_one_bannerWithPlaylist_textRedBgTransparent_large a {
+		color:#F00;
+		text-decoration:underline;
+	}
+	.all_in_one_bannerWithPlaylist_textRedBgTransparent_large a:hover {
+		color:#000;
+		text-decoration:underline;
+	}
+	/*textBlueBgTransparent*/
+	.all_in_one_bannerWithPlaylist_textBlueBgTransparent_small {
+		font-family: Arial;
+		font-size:12px;
+		line-height:12px;
+		font-weight:bold;
+		color:#00F;
+		background:none;
+		padding:0;
+		margin:0;
+	}
+	.all_in_one_bannerWithPlaylist_textBlueBgTransparent_small a {
+		color:#00F;
+		text-decoration:underline;
+	}
+	.all_in_one_bannerWithPlaylist_textBlueBgTransparent_small a:hover {
+		color:#F00;
+		text-decoration:underline;
+	}
+	.all_in_one_bannerWithPlaylist_textBlueBgTransparent_medium {
+		font-family: Arial;
+		font-size:22px;
+		line-height:22px;
+		font-weight:normal;
+		color:#00F;
+		background:none;
+		padding:0;
+		margin:0;
+	}
+	.all_in_one_bannerWithPlaylist_textBlueBgTransparent_medium a {
+		color:#00F;
+		text-decoration:underline;
+	}
+	.all_in_one_bannerWithPlaylist_textBlueBgTransparent_medium a:hover {
+		color:#F00;
+		text-decoration:underline;
+	}
+	.all_in_one_bannerWithPlaylist_textBlueBgTransparent_large {
+		font-family: Arial;
+		font-size:36px;
+		line-height:36px;
+		font-weight:normal;
+		color:#00F;
+		background:none;
+		padding:0;
+		margin:0;
+	}
+	.all_in_one_bannerWithPlaylist_textBlueBgTransparent_large a {
+		color:#00F;
+		text-decoration:underline;
+	}
+	.all_in_one_bannerWithPlaylist_textBlueBgTransparent_large a:hover {
+		color:#F00;
+		text-decoration:underline;
+	}
