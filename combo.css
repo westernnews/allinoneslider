@@ -67,12 +67,12 @@ skins available:
 	margin-top:-35px; /* height/2 */
 	width:31px;
 	height:71px;
-	background:url(https://westernnews.github.io/allinoneslider/skins/elegant/leftNavOFF.png) 0 0 no-repeat;
+	background:url(skins/elegant/leftNavOFF.png) 0 0 no-repeat;
 	cursor: pointer;
 }
 
 .allinone_bannerWithPlaylist.elegant .leftNav:hover {
-	background:url(https://westernnews.github.io/allinoneslider/skins/elegant/leftNavON.png) 0 0 no-repeat;
+	background:url(skins/elegant/leftNavON.png) 0 0 no-repeat;
 }
 .allinone_bannerWithPlaylist.elegant .rightNav {
 	position:absolute;
@@ -81,11 +81,11 @@ skins available:
 	margin-top:-35px; /* height/2 */
 	width:31px;
 	height:71px;
-	background:url(https://westernnews.github.io/allinoneslider/skins/elegant/rightNavOFF.png) 0 0 no-repeat;
+	background:url(skins/elegant/rightNavOFF.png) 0 0 no-repeat;
 	cursor: pointer;
 }
 .allinone_bannerWithPlaylist.elegant .rightNav:hover {
-	background:url(https://westernnews.github.io/allinoneslider/skins/elegant/rightNavON.png) 0 0 no-repeat;
+	background:url(skins/elegant/rightNavON.png) 0 0 no-repeat;
 }
 .allinone_bannerWithPlaylist.elegant .thumbsHolderWrapper {
 	position:absolute;
@@ -156,8 +156,8 @@ skins available:
 }
 
 .allinone_bannerWithPlaylist.elegant .slider-vertical.ui-slider { position: relative;}
-.allinone_bannerWithPlaylist.elegant .slider-vertical.ui-slider .ui-slider-handle { position: absolute; z-index: 2; width: 6px; height: 25px; cursor: pointer; background:url(https://westernnews.github.io/allinoneslider/skins/elegant/scrollerFaceOFF.png) 0 0 no-repeat; }
-.allinone_bannerWithPlaylist.elegant .slider-vertical.ui-slider .ui-slider-handle:hover { background:url(https://westernnews.github.io/allinoneslider/skins/elegant/scrollerFaceON.png) 0 0 no-repeat; }
+.allinone_bannerWithPlaylist.elegant .slider-vertical.ui-slider .ui-slider-handle { position: absolute; z-index: 2; width: 6px; height: 25px; cursor: pointer; background:url(skins/elegant/scrollerFaceOFF.png) 0 0 no-repeat; }
+.allinone_bannerWithPlaylist.elegant .slider-vertical.ui-slider .ui-slider-handle:hover { background:url(skins/elegant/scrollerFaceON.png) 0 0 no-repeat; }
 .allinone_bannerWithPlaylist.elegant .slider-vertical.ui-slider .ui-slider-range { position: absolute; z-index: 1; display: block; border: 0; }
 
 
@@ -196,12 +196,12 @@ skins available:
 	margin-top:-21px; /* height/2 */
 	width:41px;
 	height:41px;
-	background:url(https://westernnews.github.io/allinoneslider/skins/pureGallery/leftNavOFF.png) 0 0 no-repeat;
+	background:url(skins/pureGallery/leftNavOFF.png) 0 0 no-repeat;
 	cursor: pointer;
 }
 
 .allinone_bannerWithPlaylist.pureGallery .leftNav:hover {
-	background:url(https://westernnews.github.io/allinoneslider/skins/pureGallery/leftNavON.png) 0 0 no-repeat;
+	background:url(skins/pureGallery/leftNavON.png) 0 0 no-repeat;
 }
 .allinone_bannerWithPlaylist.pureGallery .rightNav {
 	position:absolute;
@@ -210,11 +210,11 @@ skins available:
 	margin-top:-21px; /* height/2 */
 	width:41px;
 	height:41px;
-	background:url(https://westernnews.github.io/allinoneslider/skins/pureGallery/rightNavOFF.png) 0 0 no-repeat;
+	background:url(skins/pureGallery/rightNavOFF.png) 0 0 no-repeat;
 	cursor: pointer;
 }
 .allinone_bannerWithPlaylist.pureGallery .rightNav:hover {
-	background:url(https://westernnews.github.io/allinoneslider/skins/pureGallery/rightNavON.png) 0 0 no-repeat;
+	background:url(skins/pureGallery/rightNavON.png) 0 0 no-repeat;
 }
 .allinone_bannerWithPlaylist.pureGallery .thumbsHolderWrapper {
 	position:absolute;
@@ -295,8 +295,8 @@ skins available:
 }
 
 .allinone_bannerWithPlaylist.pureGallery .slider-vertical.ui-slider { position: relative;}
-.allinone_bannerWithPlaylist.pureGallery .slider-vertical.ui-slider .ui-slider-handle { position: absolute; z-index: 2; width: 6px; height: 25px; cursor: pointer; background:url(https://westernnews.github.io/allinoneslider/skins/pureGallery/scrollerFaceOFF.png) 0 0 no-repeat; }
-.allinone_bannerWithPlaylist.pureGallery .slider-vertical.ui-slider .ui-slider-handle:hover { background:url(https://westernnews.github.io/allinoneslider/skins/pureGallery/scrollerFaceON.png) 0 0 no-repeat; }
+.allinone_bannerWithPlaylist.pureGallery .slider-vertical.ui-slider .ui-slider-handle { position: absolute; z-index: 2; width: 6px; height: 25px; cursor: pointer; background:url(skins/pureGallery/scrollerFaceOFF.png) 0 0 no-repeat; }
+.allinone_bannerWithPlaylist.pureGallery .slider-vertical.ui-slider .ui-slider-handle:hover { background:url(skins/pureGallery/scrollerFaceON.png) 0 0 no-repeat; }
 .allinone_bannerWithPlaylist.pureGallery .slider-vertical.ui-slider .ui-slider-range { position: absolute; z-index: 1; display: block; border: 0; }
 
 
@@ -336,12 +336,12 @@ skins available:
 	margin-top:-35px; /* height/2 */
 	width:41px;
 	height:41px;
-	background:url(https://westernnews.github.io/allinoneslider/skins/easy/leftNavOFF.png) 0 0 no-repeat;
+	background:url(skins/easy/leftNavOFF.png) 0 0 no-repeat;
 	cursor: pointer;
 }
 
 .allinone_bannerWithPlaylist.easy .leftNav:hover {
-	background:url(https://westernnews.github.io/allinoneslider/skins/easy/leftNavON.png) 0 0 no-repeat;
+	background:url(skins/easy/leftNavON.png) 0 0 no-repeat;
 }
 .allinone_bannerWithPlaylist.easy .rightNav {
 	position:absolute;
@@ -350,11 +350,11 @@ skins available:
 	margin-top:-35px; /* height/2 */
 	width:41px;
 	height:41px;
-	background:url(https://westernnews.github.io/allinoneslider/skins/easy/rightNavOFF.png) 0 0 no-repeat;
+	background:url(skins/easy/rightNavOFF.png) 0 0 no-repeat;
 	cursor: pointer;
 }
 .allinone_bannerWithPlaylist.easy .rightNav:hover {
-	background:url(https://westernnews.github.io/allinoneslider/skins/easy/rightNavON.png) 0 0 no-repeat;
+	background:url(skins/easy/rightNavON.png) 0 0 no-repeat;
 }
 
 
@@ -378,7 +378,7 @@ skins available:
 .allinone_bannerWithPlaylist.easy .thumbsHolder_ThumbOFF {
 	display:block;
 	height:96px;
-	background:url(https://westernnews.github.io/allinoneslider/skins/easy/bgPlaylistUnit.png) top left repeat-x;
+	background:url(skins/easy/bgPlaylistUnit.png) top left repeat-x;
 	text-align:left;
 	line-height:1.4em;
 	cursor: pointer;
@@ -423,8 +423,8 @@ skins available:
 }
 
 .allinone_bannerWithPlaylist.easy .slider-vertical.ui-slider { position: relative;}
-.allinone_bannerWithPlaylist.easy .slider-vertical.ui-slider .ui-slider-handle { position: absolute; z-index: 2; width: 6px; height: 25px; cursor: pointer; background:url(https://westernnews.github.io/allinoneslider/skins/easy/scrollerFaceOFF.png) 0 0 no-repeat; }
-.allinone_bannerWithPlaylist.easy .slider-vertical.ui-slider .ui-slider-handle:hover { background:url(https://westernnews.github.io/allinoneslider/skins/easy/scrollerFaceON.png) 0 0 no-repeat; }
+.allinone_bannerWithPlaylist.easy .slider-vertical.ui-slider .ui-slider-handle { position: absolute; z-index: 2; width: 6px; height: 25px; cursor: pointer; background:url(skins/easy/scrollerFaceOFF.png) 0 0 no-repeat; }
+.allinone_bannerWithPlaylist.easy .slider-vertical.ui-slider .ui-slider-handle:hover { background:url(skins/easy/scrollerFaceON.png) 0 0 no-repeat; }
 .allinone_bannerWithPlaylist.easy .slider-vertical.ui-slider .ui-slider-range { position: absolute; z-index: 1; display: block; border: 0; }
 
 
@@ -456,7 +456,7 @@ skins available:
 
 .textElement11_elegant {
 	width:100%;
-	background:url(https://westernnews.github.io/allinoneslider/skins/elegant/textBg_transparency.png);
+	background:url(skins/elegant/textBg_transparency.png);
 	font: 22px/27px 'Droid Sans', Verdana, Helvetica, sans-serif;
 	padding:2px 0px 0px 0px;
 	color:#ffffff;
@@ -501,7 +501,7 @@ skins available:
 
 .textElement41_elegant {
 	width:100%;
-	background:url(https://westernnews.github.io/allinoneslider/skins/elegant/textBg_transparency.png);
+	background:url(skins/elegant/textBg_transparency.png);
 	font: 22px/27px 'Droid Sans', Verdana, Helvetica, sans-serif;
 	padding:2px 0px 0px 0px;
 	color:#ffffff;
@@ -540,7 +540,7 @@ skins available:
 
 .textElement11_elegantFullWidth {
 	width:100%;
-	background:url(https://westernnews.github.io/allinoneslider/skins/elegant/textBg_transparency.png);
+	background:url(skins/elegant/textBg_transparency.png);
 	font: 32px/42px 'Droid Sans', Verdana, Helvetica, sans-serif;
 	padding:0px 0px 0px 0px;
 	color:#ffffff;
@@ -585,7 +585,7 @@ skins available:
 
 .textElement41_elegantFullWidth {
 	width:100%;
-	background:url(https://westernnews.github.io/allinoneslider/skins/elegant/textBg_transparency.png);
+	background:url(skins/elegant/textBg_transparency.png);
 	font: 42px/50px 'Droid Sans', Verdana, Helvetica, sans-serif;
 	padding:0px 0px 0px 0px;
 	color:#ffffff;
@@ -624,7 +624,7 @@ skins available:
 
 .textElement11_pureGallery {
 	width:100%;
-	background:url(https://westernnews.github.io/allinoneslider/skins/elegant/textBg_transparency.png);
+	background:url(skins/elegant/textBg_transparency.png);
 	font: 22px/27px 'Droid Sans', Verdana, Helvetica, sans-serif;
 	padding:3px 0px 3px 0px;
 	color:#ffffff;
@@ -669,7 +669,7 @@ skins available:
 
 .textElement41_pureGallery {
 	width:100%;
-	background:url(https://westernnews.github.io/allinoneslider/skins/elegant/textBg_transparency.png);
+	background:url(skins/elegant/textBg_transparency.png);
 	font: 22px/27px 'Droid Sans', Verdana, Helvetica, sans-serif;
 	padding:3px 0px 3px 0px;
 	color:#ffffff;
@@ -714,7 +714,7 @@ skins available:
 
 .textElement11_pureGalleryFullWidth {
 	width:100%;
-	background:url(https://westernnews.github.io/allinoneslider/skins/elegant/textBg_transparency.png);
+	background:url(skins/elegant/textBg_transparency.png);
 	font: 32px/42px 'Droid Sans', Verdana, Helvetica, sans-serif;
 	padding:3px 0px 3px 0px;
 	color:#ffffff;
@@ -759,7 +759,7 @@ skins available:
 
 .textElement41_pureGalleryFullWidth {
 	xwidth:100%;
-	background:url(https://westernnews.github.io/allinoneslider/skins/elegant/textBg_transparency.png);
+	background:url(skins/elegant/textBg_transparency.png);
 	font: 42px/50px 'Droid Sans', Verdana, Helvetica, sans-serif;
 	padding:3px 4px 3px 4px;
 	color:#ffffff;
@@ -801,7 +801,7 @@ skins available:
 
 .textElement11_easy {
 	width:100%;
-	background:url(https://westernnews.github.io/allinoneslider/skins/elegant/textBg_transparency.png);
+	background:url(skins/elegant/textBg_transparency.png);
 	font: 22px/27px 'Droid Sans', Verdana, Helvetica, sans-serif;
 	padding:3px 0px 3px 0px;
 	color:#ffffff;
@@ -846,7 +846,7 @@ skins available:
 
 .textElement41_easy {
 	width:100%;
-	background:url(https://westernnews.github.io/allinoneslider/skins/elegant/textBg_transparency.png);
+	background:url(skins/elegant/textBg_transparency.png);
 	font: 22px/27px 'Droid Sans', Verdana, Helvetica, sans-serif;
 	padding:3px 0px 3px 0px;
 	color:#ffffff;
@@ -893,7 +893,7 @@ skins available:
 
 .textElement11_easyFullWidth {
 	width:100%;
-	background:url(https://westernnews.github.io/allinoneslider/skins/elegant/textBg_transparency.png);
+	background:url(skins/elegant/textBg_transparency.png);
 	font: 32px/42px 'Droid Sans', Verdana, Helvetica, sans-serif;
 	padding:3px 0px 3px 0px;
 	color:#ffffff;
@@ -938,7 +938,7 @@ skins available:
 
 .textElement41_easyFullWidth {
 	xwidth:100%;
-	background:url(https://westernnews.github.io/allinoneslider/skins/elegant/textBg_transparency.png);
+	background:url(skins/elegant/textBg_transparency.png);
 	font: 42px/50px 'Droid Sans', Verdana, Helvetica, sans-serif;
 	padding:3px 4px 3px 4px;
 	color:#ffffff;
@@ -992,3 +992,5 @@ skins available:
 .hideElement {
 	display:none !important;
 }
+
+
