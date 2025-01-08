@@ -67,7 +67,7 @@ skins available:
 	margin-top:-35px; /* height/2 */
 	width:31px;
 	height:71px;
-	background:url(https://westernnews.github.io/allinoneslider/skins/elegant/leftNavOFF.png) 0 0 no-repeat;
+	background:url(https://westernnews.github.io/allinoneslider/skins/elegant/leftNavON.png) 0 0 no-repeat;
 	cursor: pointer;
 }
 
@@ -81,7 +81,7 @@ skins available:
 	margin-top:-35px; /* height/2 */
 	width:31px;
 	height:71px;
-	background:url(https://westernnews.github.io/allinoneslider/skins/elegant/rightNavOFF.png) 0 0 no-repeat;
+	background:url(https://westernnews.github.io/allinoneslider/skins/elegant/rightNavON.png) 0 0 no-repeat;
 	cursor: pointer;
 }
 .allinone_bannerWithPlaylist.elegant .rightNav:hover {
@@ -196,7 +196,7 @@ skins available:
 	margin-top:-21px; /* height/2 */
 	width:41px;
 	height:41px;
-	background:url(https://westernnews.github.io/allinoneslider/skins/pureGallery/leftNavOFF.png) 0 0 no-repeat;
+	background:url(https://westernnews.github.io/allinoneslider/skins/pureGallery/leftNavON.png) 0 0 no-repeat;
 	cursor: pointer;
 }
 
@@ -210,7 +210,7 @@ skins available:
 	margin-top:-21px; /* height/2 */
 	width:41px;
 	height:41px;
-	background:url(https://westernnews.github.io/allinoneslider/skins/pureGallery/rightNavOFF.png) 0 0 no-repeat;
+	background:url(https://westernnews.github.io/allinoneslider/skins/pureGallery/rightNavON.png) 0 0 no-repeat;
 	cursor: pointer;
 }
 .allinone_bannerWithPlaylist.pureGallery .rightNav:hover {
@@ -336,7 +336,7 @@ skins available:
 	margin-top:-35px; /* height/2 */
 	width:41px;
 	height:41px;
-	background:url(https://westernnews.github.io/allinoneslider/skins/easy/leftNavOFF.png) 0 0 no-repeat;
+	background:url(https://westernnews.github.io/allinoneslider/skins/easy/leftNavON.png) 0 0 no-repeat;
 	cursor: pointer;
 }
 
@@ -350,7 +350,7 @@ skins available:
 	margin-top:-35px; /* height/2 */
 	width:41px;
 	height:41px;
-	background:url(https://westernnews.github.io/allinoneslider/skins/easy/rightNavOFF.png) 0 0 no-repeat;
+	background:url(https://westernnews.github.io/allinoneslider/skins/easy/rightNavON.png) 0 0 no-repeat;
 	cursor: pointer;
 }
 .allinone_bannerWithPlaylist.easy .rightNav:hover {
